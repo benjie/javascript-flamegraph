@@ -1,0 +1,9 @@
+{ "name": "flamegraph-profiler",
+  "version": "0.1.0",
+  "description": "Profile your JavaScript to make a flame graph",
+  "homepage": "https://github.com/BenjieGillam/javascript-flamegraph",
+  "bugs": {"url": "https://github.com/BenjieGillam/javascript-flamegraph/issues"},
+  "author": "Benjie Gillam <benjie@jemjie.com> http://www.benjiegillam.com/",
+  "repository": {"type": "git", "url": "git://github.com/BenjieGillam/javascript-flamegraph.git"},
+  "dependencies": {"sprintf": ">=0"}
+}
